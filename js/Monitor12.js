@@ -1,29 +1,14 @@
 let LosCanales = [
     {
-        'nombre': '<img style="height: 15px; width:auto:" src="https://flagcdn.com/cl.svg">ﾠ<img style="height: 15px; width:auto:" src="imagenes/Logo_YT.svg"></img>ﾠGABRIEL BORIC',
-        'url': 'https://www.youtube.com/embed/live_stream?channel=UC0gQkOPt6VVvJGO9mDy0ikw&autoplay=true&mute=1'
-    }, {
-        'nombre': '<img style="height: 15px; width:auto:" src="https://flagcdn.com/cl.svg">ﾠ<img style="height: 20px; width:auto:" src="imagenes/Icono_Facebook.svg"></img>ﾠGABRIEL BORIC',
-        'url': 'Elecciones_Facebook_Boric.html'
-    }, {
-        'nombre': '<img style="height: 15px; width:auto:" src="https://flagcdn.com/cl.svg">ﾠ<img style="height: 15px; width:auto:" src="imagenes/Logo_YT.svg"></img>ﾠJOSE ANTONIO KAST',
-        'url': 'https://www.youtube.com/embed/live_stream?channel=UCGLRRRKMp4K1AKJabf8OeEg&autoplay=true&mute=1'
-    },{
-        'nombre': '<img style="height: 15px; width:auto:" src="https://flagcdn.com/cl.svg">ﾠ<img style="height: 20px; width:auto:" src="imagenes/Icono_Facebook.svg"></img>ﾠJOSE ANTONIO KAST',
-        'url': 'Elecciones_Facebook_Kast.html'
-    },{
-        'nombre': '<img style="height: 15px; width:auto:" src="https://flagcdn.com/cl.svg">ﾠSERVEL RESULTADOS',
-        'url': 'EleccionesResultados.html'
-    }, {
-        'nombre': '<img style="height: 15px; width:auto:" src="https://flagcdn.com/cl.svg">ﾠINFOGRAM RESULTADOS',
-        'url': 'EleccionesResultadosInfogram.html'
-    },{
         'nombre': '<img style="height: 20px; width:auto:" src="imagenes/Logo_24PLAY.svg"></img>',
         'url': 'Señal24HTVN.html'
     }, {
+        'nombre': '<img style="height: 20px; width:auto:" src="imagenes/Logo_CANAL24H.svg"></img>',
+        'url': 'SeñalCanal24HTVN.html'
+    },{
         'nombre': '<img style="height: 20px; width:auto:" src="imagenes/Logo_CNNCHILE2.svg"></img>',
         'url': 'SeñalCNNCHILE.html'
-    }, {
+    },{
         'nombre': '<img style="height: 20px; width:auto:" src="imagenes/Logo_MEGANOTICIAS.svg"></img>',
         'url': 'SeñalMEGANOTICIAS.html'
     }, {
@@ -33,42 +18,44 @@ let LosCanales = [
         'nombre': '<img style="height: 20px; width:auto:" src="imagenes/Logo_TVN.svg"></img>',
         'url': 'SeñalTVN.html'
     }, {
-        'nombre': '<img style="height: 20px; width:auto:" src="imagenes/Logo_TVN.svg"></img>ﾠ<img style="height: 15px; width:auto:" src="imagenes/Icono_WebIframe.svg"></img>',
-        'url': '../Monitores/Senal/WEB/SeñalTVN_IFRAME_AINM_GITHUB.html'
-    },{
         'nombre': '<img style="height: 20px; width:auto:" src="imagenes/Logo_MEGA.svg"></img>',
         'url': 'SeñalMEGA.html'
     }, {
-        'nombre': '<img style="height: 20px; width:auto:" src="imagenes/Logo_CHV.svg"></img>ﾠ<img style="height: 15px; width:auto:" src="imagenes/Icono_WebIframe.svg"></img>',
-        'url': '../Monitores/Senal/WEB/SeñalCHV_IFRAME.html'
-    //},
-    //'CANAL 13': {
-    //    'nombre': '<img style="height: 20px; width:auto:" src="imagenes/Logo_Canal13.svg"></img>',
-    //    'url': 'SeñalCANAL13.html" frameborder="0"></iframe><div class="CAJATituloDePantallaPequeña2"><div class="TextoTitulosMonitor1">ㅤCANAL 13ㅤ</div></div></div>'
+        'nombre': '<img style="height: 20px; width:auto:" src="imagenes/Logo_CHV.svg"></img>',
+        'url': 'SeñalCHV.html'
     }, {
-        'nombre': '<img style="height: 20px; width:auto:" src="imagenes/Logo_Canal13.svg"></img>ﾠ<img style="height: 15px; width:auto:" src="imagenes/Icono_WebIframe.svg"></img> AINM GITHUB',
-        'url': '../Monitores/Senal/WEB/SeñalCANAL13_IFRAME_AINM_GITHUB.html'
-    }, {
-        'nombre': '<img style="height: 20px; width:auto:" src="imagenes/Logo_Canal13E.svg"></img>ﾠE',
-        'url': 'SeñalCANAL13_E.html'
+        'nombre': '<img style="height: 20px; width:auto:" src="imagenes/Logo_Canal13.svg"></img>',
+        'url': 'SeñalCANAL13.html'
     }, {
         'nombre': '<img style="height: 20px; width:auto:" src="imagenes/Logo_LA_RED.svg"></img>',
         'url': 'SeñalLARED.html'
-    }, {
+    },{
         'nombre': '<img style="height: 20px; width:auto:" src="imagenes/Logo_TVMAS.svg"></img>',
         'url': 'SeñalTVMAS.html'
     }, {
         'nombre': '<img style="height: 20px; width:auto:" src="imagenes/Logo_UCVTV.svg"></img>',
         'url': 'Señal_UCVTV.html'
-    },{
+    }, {
         'nombre': '<img style="height: 20px; width:auto:" src="imagenes/Logo_NTV.svg"></img>',
         'url': 'SeñalNTV.html'
     }, {
         'nombre': '<img style="height: 20px; width:auto:" src="imagenes/Logo_TVCHILE.svg"></img>',
         'url': 'SeñalTVCHILE.html'
-    },{
+    }, {
+        'nombre': '<img style="height: 20px; width:auto:" src="imagenes/Logo_MEGAPLUS.svg"></img>',
+        'url': 'SeñalMEGA_PLUS.html'
+    }, {
         'nombre': '<img style="height: 20px; width:auto:" src="imagenes/LogoTV_WappTV.svg"></img>',
         'url': 'SeñalWAPPTV.html'
+    },{
+        'nombre': '<img style="height: 20px; width:auto:" src="imagenes/Logo_TVN.svg"></img>ﾠ<img style="height: 15px; width:auto:" src="imagenes/Icono_WebIframe.svg"></img>',
+        'url': '../Monitores/Senal/WEB/SeñalTVN_IFRAME_AINM_GITHUB.html'
+    },{
+        'nombre': '<img style="height: 20px; width:auto:" src="imagenes/Logo_CHV.svg"></img>ﾠ<img style="height: 15px; width:auto:" src="imagenes/Icono_WebIframe.svg"></img>',
+        'url': '../Monitores/Senal/WEB/SeñalCHV_IFRAME.html'
+    }, {
+        'nombre': '<img style="height: 20px; width:auto:" src="imagenes/Logo_Canal13.svg"></img>ﾠ<img style="height: 15px; width:auto:" src="imagenes/Icono_WebIframe.svg"></img> AINM GITHUB',
+        'url': '../Monitores/Senal/WEB/SeñalCANAL13_IFRAME_AINM_GITHUB.html'
     },{
         'nombre': '<img style="height: 20px; width:auto:" src="imagenes/Logo_24HTVN.svg"></img>ﾠSEÑAL 1',
         'url': 'SeñalInterna24H_1.html'
