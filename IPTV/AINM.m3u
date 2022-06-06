@@ -1,255 +1,255 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://lisa.zapping.live/uploads/canales/white/ucv3.png" group-title="Nacional", UCV3
+#EXTINF:-1 tvg-logo="https://lisa.zapping.live/uploads/canales/white/ucv3.png" group-title="NACIONAL", UCV3
 https://unlimited10-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-eU8EzKPxxwk/W_daaXlf4FI/AAAAAAAAmfU/8PRBaU82Y4USPw-4FTuAQ_fWDDcTnYbpgCL0BGAYYCw/h66/2018-11-22.png" group-title="Nacional", TV+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-eU8EzKPxxwk/W_daaXlf4FI/AAAAAAAAmfU/8PRBaU82Y4USPw-4FTuAQ_fWDDcTnYbpgCL0BGAYYCw/h66/2018-11-22.png" group-title="NACIONAL", TV+
 https://mdstrm.com/live-stream-playlist/5c0e8b19e4c87f3f2d3e6a59.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/La_Red_Logotipo.svg/640px-La_Red_Logotipo.svg.png" group-title="Nacional", La Red
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/La_Red_Logotipo.svg/640px-La_Red_Logotipo.svg.png" group-title="NACIONAL", La Red
 https://marine2.miplay.cl/lared/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qpx3sj3z/Logo-TVN.png" group-title="Nacional", TVN
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qpx3sj3z/Logo-TVN.png" group-title="NACIONAL", TVN
 https://marine2.miplay.cl/tvn/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/q0NyPs95/Logo-MEGA.png" group-title="Nacional", MEGA 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/q0NyPs95/Logo-MEGA.png" group-title="NACIONAL", MEGA 
 https://marine2.miplay.cl/mega/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://fotos.subefotos.com/6314180f1c9c61176726fc4ebe695c23o.png" group-title="Nacional", CHILEVISION
+#EXTINF:-1 tvg-logo="https://fotos.subefotos.com/6314180f1c9c61176726fc4ebe695c23o.png" group-title="NACIONAL", CHILEVISION
 https://marine2.miplay.cl/chilevision/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://fotos.subefotos.com/7a33554716a5fac0dd04e69d1e65d8e2o.png" group-title="Nacional", CANAL 13
+#EXTINF:-1 tvg-logo="https://fotos.subefotos.com/7a33554716a5fac0dd04e69d1e65d8e2o.png" group-title="NACIONAL", CANAL 13
 https://marine2.miplay.cl/canal13/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/q0NyPs95/Logo-MEGA.png" group-title="Nacional", MEGA PLUS 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/q0NyPs95/Logo-MEGA.png" group-title="NACIONAL", MEGA PLUS 
 https://marine2.miplay.cl/megaplus/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nH8DBrTc/Logo-TVCHILE.png" group-title="Nacional", TV Chile
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nH8DBrTc/Logo-TVCHILE.png" group-title="NACIONAL", TV Chile
 https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/VvRHKwjz/Logo-C24-H.png" group-title="Noticias", CANAL 24 HORAS
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VvRHKwjz/Logo-C24-H.png" group-title="NOTICIAS", CANAL 24 HORAS
 https://marine2.miplay.cl/24horas/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/CNN_Chile_logo_2017.svg/480px-CNN_Chile_logo_2017.svg.png" group-title="Noticias", CNN CHILE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/CNN_Chile_logo_2017.svg/480px-CNN_Chile_logo_2017.svg.png" group-title="NOTICIAS", CNN CHILE
 https://unlimited1-cl-isp.dps.live/cnn/cnn.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/CNN_Chile_logo_2017.svg/480px-CNN_Chile_logo_2017.svg.png" group-title="Noticias", CNN CHILE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/CNN_Chile_logo_2017.svg/480px-CNN_Chile_logo_2017.svg.png" group-title="NOTICIAS", CNN CHILE
 http://xdgo.live:8080/Normieandflax/65hfxFsbkE/27507
 
-#EXTINF:-1 tvg-logo="https://fotos.subefotos.com/ae8059a01777a066979869891e176077o.png" group-title="Noticias", T13
-https://marine2.miplay.cl/t13/index.m3u8
+#EXTINF:-1 tvg-logo="https://fotos.subefotos.com/ae8059a01777a066979869891e176077o.png" group-title="NOTICIAS", T13
+https://unlimited2-cl-isp.dps.live/t13/t13.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nxSxgp1k/Logo-MEGANOTICIAS.png" group-title="Noticias", MEGANOTICIAS
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nxSxgp1k/Logo-MEGANOTICIAS.png" group-title="NOTICIAS", MEGANOTICIAS
 https://mdstrm.com/live-stream-playlist-v/561430ae330428c223687e1e.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/VvRHKwjz/Logo-C24-H.png" group-title="Noticias", 24 PLAY
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VvRHKwjz/Logo-C24-H.png" group-title="NOTICIAS", 24 PLAY
 http://mdstrm.com/live-stream-playlist-v/57d1a22064f5d85712b20dab.m3u8
 
-#EXTINF:-1 tvg-logo="https://im2.ezgif.com/tmp/ezgif-2-cbd343be23.png" group-title="Noticias", CHV NOTICIAS
+#EXTINF:-1 tvg-logo="https://im2.ezgif.com/tmp/ezgif-2-cbd343be23.png" group-title="NOTICIAS", CHV NOTICIAS
 https://siloh.pluto.tv/lilo/production/Chilevision/master_1.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Noticias", CNN ESPAÑOL
+#EXTINF:-1 tvg-logo="" group-title="NOTICIAS", CNN ESPAÑOL
 https://edge-live12-hr.cvattv.com.ar/live/c6eds/CNN_en_Espanol/SA_SAGEMCOM/CNN_en_Espanol.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Noticias", CNN ESPAÑOL
+#EXTINF:-1 tvg-logo="" group-title="NOTICIAS", CNN ESPAÑOL
 https://edge02-fdo-py.cvattv.com.ar/live/c6eds/CNN_en_Espanol/SA_SAGEMCOM/CNN_en_Espanol.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Noticias", CNN INTERNACIONAL
+#EXTINF:-1 tvg-logo="" group-title="NOTICIAS", CNN INTERNACIONAL
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZK9sCHxq/Logo-GOB.png" group-title="SATELITE", PRESIDENCIA
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZK9sCHxq/Logo-GOB.png" group-title="NEWS LIVE", PRESIDENCIA
 http://mdstrm.com/live-stream-playlist/5dc17f8944795108a2a52a49.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/VvRHKwjz/Logo-C24-H.png" group-title="SEÑALES 24HORAS", 24HORAS SEÑAL 1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VvRHKwjz/Logo-C24-H.png" group-title="NEWS LIVE", 24HORAS SEÑAL 1
 http://mdstrm.com/live-stream-playlist-v/5346f5f2c1e6f5810b5b9df0.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/VvRHKwjz/Logo-C24-H.png" group-title="SEÑALES 24HORAS", 24HORAS SEÑAL 2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VvRHKwjz/Logo-C24-H.png" group-title="NEWS LIVE", 24HORAS SEÑAL 2
 https://mdstrm.com/live-stream-playlist-v/5346f657c1e6f5810b5b9df3.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/VvRHKwjz/Logo-C24-H.png" group-title="SEÑALES 24HORAS", 24HORAS SEÑAL 3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VvRHKwjz/Logo-C24-H.png" group-title="NEWS LIVE", 24HORAS SEÑAL 3
 http://mdstrm.com/live-stream-playlist-v/53443c472c6e89675103cc4c.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/VvRHKwjz/Logo-C24-H.png" group-title="SEÑALES 24HORAS", 24HORAS SEÑAL 4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VvRHKwjz/Logo-C24-H.png" group-title="NEWS LIVE", 24HORAS SEÑAL 4
 http://mdstrm.com/live-stream-playlist-v/555c9a91eb4886825b07ee7b.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/VvRHKwjz/Logo-C24-H.png" group-title="SEÑALES 24HORAS", 24HORAS SEÑAL 5
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VvRHKwjz/Logo-C24-H.png" group-title="NEWS LIVE", 24HORAS SEÑAL 5
 http://mdstrm.com/live-stream-playlist-v/5653641561b4eba30a7e4929.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nxSxgp1k/Logo-MEGANOTICIAS.png" group-title="SATELITE", MEGANOTICIAS SEÑAL 1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nxSxgp1k/Logo-MEGANOTICIAS.png" group-title="NEWS LIVE", MEGANOTICIAS SEÑAL 1
 http://mdstrm.com/live-stream-playlist-v/561430ae330428c223687e1e.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nxSxgp1k/Logo-MEGANOTICIAS.png" group-title="SATELITE", MEGANOTICIAS SEÑAL 2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nxSxgp1k/Logo-MEGANOTICIAS.png" group-title="NEWS LIVE", MEGANOTICIAS SEÑAL 2
 http://mdstrm.com/live-stream-playlist-v/5ddfebf14bee0054b9b3fd14.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nxSxgp1k/Logo-MEGANOTICIAS.png" group-title="SATELITE", MEGANOTICIAS SEÑAL 3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nxSxgp1k/Logo-MEGANOTICIAS.png" group-title="NEWS LIVE", MEGANOTICIAS SEÑAL 3
 http://mdstrm.com/live-stream-playlist-v/5ddfef39d0ff235bffface57.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nxSxgp1k/Logo-MEGANOTICIAS.png" group-title="SATELITE", MEGANOTICIAS SEÑAL 4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nxSxgp1k/Logo-MEGANOTICIAS.png" group-title="NEWS LIVE", MEGANOTICIAS SEÑAL 4
 http://mdstrm.com/live-stream-playlist-v/56f97fc0b9bb39786b04a3b0.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="CNNChile", CNNChile Señal Interna1
+#EXTINF:-1 tvg-logo="" group-title="NEWS LIVE", CNNChile Señal Interna1
 https://unlimited1-cl-isp.dps.live/cnnprensa/cnnprensa.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Fm4yKDcN/MEDIABANCO.png" group-title="SATELITE", MEDIABANCO SEÑAL 1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Fm4yKDcN/MEDIABANCO.png" group-title="NEWS LIVE", MEDIABANCO SEÑAL 1
 https://unlimited1-cl-isp.dps.live/mediabanco/mediabanco.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Fm4yKDcN/MEDIABANCO.png" group-title="SATELITE", MEDIABANCO SEÑAL 2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Fm4yKDcN/MEDIABANCO.png" group-title="NEWS LIVE", MEDIABANCO SEÑAL 2
 https://unlimited2-cl-isp.dps.live/mediabanco2/mediabanco2.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="SATELITE", REUTERS
+#EXTINF:-1 tvg-logo="" group-title="NEWS LIVE", REUTERS
 http://mdstrm.com/live-stream-playlist-v/53443c472c6e89675103cc4c.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="SATELITE", TELEMUNDO
+#EXTINF:-1 tvg-logo="" group-title="NEWS LIVE", TELEMUNDO
 https://tlmdhd-lh.akamaihd.net/i/tlmd1_1@79627/master.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="SATELITE", CNN NEWSOURCE 1
+#EXTINF:-1 tvg-logo="" group-title="NEWS LIVE", CNN NEWSOURCE 1
 https://cnnnewsource-i.akamaihd.net/hls/live/252340/CNNNewsource1/master.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="SATELITE", CNN NEWSOURCE 2
+#EXTINF:-1 tvg-logo="" group-title="NEWS LIVE", CNN NEWSOURCE 2
 https://cnnnewsource-i.akamaihd.net/hls/live/258562/CNNNewsource2/master.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="SATELITE", CNN NEWSOURCE 3
+#EXTINF:-1 tvg-logo="" group-title="NEWS LIVE", CNN NEWSOURCE 3
 https://cnnnewsource-i.akamaihd.net/hls/live/258563/CNNNewsource3/master.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="SATELITE", CNN NEWSOURCE 4
+#EXTINF:-1 tvg-logo="" group-title="NEWS LIVE", CNN NEWSOURCE 4
 https://cnnnewsource-i.akamaihd.net/hls/live/258564/CNNNewsource4/master.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="SATELITE", CNN NEWSOURCE 5
+#EXTINF:-1 tvg-logo="" group-title="NEWS LIVE", CNN NEWSOURCE 5
 https://cnnnewsource-i.akamaihd.net/hls/live/258565/CNNNewsource5/master.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="SATELITE", CNN NEWSOURCE 6
+#EXTINF:-1 tvg-logo="" group-title="NEWS LIVE", CNN NEWSOURCE 6
 https://cnnnewsource-i.akamaihd.net/hls/live/258566/CNNNewsource6/master.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="SATELITE", CNN NEWSOURCE 7
+#EXTINF:-1 tvg-logo="" group-title="NEWS LIVE", CNN NEWSOURCE 7
 https://cnnnewsource-i.akamaihd.net/hls/live/258567/CNNNewsource7/master.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="SATELITE", CNN LIVE 1
+#EXTINF:-1 tvg-logo="" group-title="NEWS LIVE", CNN LIVE 1
 https://cnngo1.akamaized.net/hls/live/598782/PROD-cnnlive1/master.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="SATELITE", CNN LIVE 2
+#EXTINF:-1 tvg-logo="" group-title="NEWS LIVE", CNN LIVE 2
 https://cnngo1.akamaized.net/hls/live/599236/PROD-cnnlive2/master.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="SATELITE", CNN LIVE 3
+#EXTINF:-1 tvg-logo="" group-title="NEWS LIVE", CNN LIVE 3
 https://cnngo1.akamaized.net/hls/live/599237/PROD-cnnlive3/master.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="SATELITE", CNN LIVE 4
+#EXTINF:-1 tvg-logo="" group-title="NEWS LIVE", CNN LIVE 4
 https://cnngo1.akamaized.net/hls/live/599238/PROD-cnnlive4/master.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="SATELITE", CNN LIVE 5
+#EXTINF:-1 tvg-logo="" group-title="NEWS LIVE", CNN LIVE 5
 https://cnngo1.akamaized.net/hls/live/2014595/PROD-cnnlive5/master.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="SATELITE", CBS NEWS LIVE 1
+#EXTINF:-1 tvg-logo="" group-title="NEWS LIVE", CBS NEWS LIVE 1
 https://cbsnewshd-lh.akamaihd.net/i/cbsnewsLivePlayer_1@196305/master.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="SATELITE", CBS NEWS LIVE 2
+#EXTINF:-1 tvg-logo="" group-title="NEWS LIVE", CBS NEWS LIVE 2
 https://cbsn-2.cbsnstream.cbsnews.com/out/v1/a6a897e8f4f74cfc896223dfd822482f/master.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="SATELITE", CBS NEWS LIVE 3
+#EXTINF:-1 tvg-logo="" group-title="NEWS LIVE", CBS NEWS LIVE 3
 https://cbsn-3-fastly.cbsnstream.cbsnews.com/out/v1/f081461c65494eeaa9ec596d0fe96a14/master.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="SATELITE", ABC NEWS LIVE 1
+#EXTINF:-1 tvg-logo="" group-title="NEWS LIVE", ABC NEWS LIVE 1
 https://abcnews-streams.akamaized.net/hls/live/2023560/abcnews1/master.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="SATELITE", ABC NEWS LIVE 2
+#EXTINF:-1 tvg-logo="" group-title="NEWS LIVE", ABC NEWS LIVE 2
 https://abcnews-streams.akamaized.net/hls/live/2023561/abcnews2/master.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="SATELITE", ABC NEWS LIVE 3
+#EXTINF:-1 tvg-logo="" group-title="NEWS LIVE", ABC NEWS LIVE 3
 https://abcnews-streams.akamaized.net/hls/live/2023562/abcnews3/master.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="SATELITE", ABC NEWS LIVE 4
+#EXTINF:-1 tvg-logo="" group-title="NEWS LIVE", ABC NEWS LIVE 4
 https://abcnews-streams.akamaized.net/hls/live/2023563/abcnews4/master.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="SATELITE", ABC NEWS LIVE 5
+#EXTINF:-1 tvg-logo="" group-title="NEWS LIVE", ABC NEWS LIVE 5
 https://abcnews-streams.akamaized.net/hls/live/2023564/abcnews5/master.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="SATELITE", ABC NEWS LIVE 6
+#EXTINF:-1 tvg-logo="" group-title="NEWS LIVE", ABC NEWS LIVE 6
 https://abcnews-streams.akamaized.net/hls/live/2023565/abcnews6/master.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="SATELITE", ABC NEWS LIVE 7
+#EXTINF:-1 tvg-logo="" group-title="NEWS LIVE", ABC NEWS LIVE 7
 https://abcnews-streams.akamaized.net/hls/live/2023566/abcnews7/master.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="SATELITE", ABC NEWS LIVE 8
+#EXTINF:-1 tvg-logo="" group-title="NEWS LIVE", ABC NEWS LIVE 8
 https://abcnews-streams.akamaized.net/hls/live/2023567/abcnews8/master.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="SATELITE", ABC NEWS LIVE 9
+#EXTINF:-1 tvg-logo="" group-title="NEWS LIVE", ABC NEWS LIVE 9
 https://abcnews-streams.akamaized.net/hls/live/2023568/abcnews9/master.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="SATELITE", ABC NEWS LIVE 10
+#EXTINF:-1 tvg-logo="" group-title="NEWS LIVE", ABC NEWS LIVE 10
 https://abcnews-streams.akamaized.net/hls/live/2023569/abcnews10/master.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="SATELITE", VOA TV 1
+#EXTINF:-1 tvg-logo="" group-title="NEWS LIVE", VOA TV 1
 https://voa-lh.akamaihd.net/i/voa_mpls_tvmc1@320294/master.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="SATELITE", VOA TV 6
+#EXTINF:-1 tvg-logo="" group-title="NEWS LIVE", VOA TV 6
 https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="SATELITE", VOA TV 9
+#EXTINF:-1 tvg-logo="" group-title="NEWS LIVE", VOA TV 9
 https://voa-lh.akamaihd.net/i/voatvmc9_5_0540@326848/master.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="SATELITE", VOA TV 10
+#EXTINF:-1 tvg-logo="" group-title="NEWS LIVE", VOA TV 10
 https://voa-lh.akamaihd.net/i/voa_mpls_tvmc10@326849/master.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="SATELITE", VOA TV 13
+#EXTINF:-1 tvg-logo="" group-title="NEWS LIVE", VOA TV 13
 https://voa-lh.akamaihd.net/i/voa_mpls_tvmc13@326852/master.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="SATELITE", NBC NEWS LIVE 1
+#EXTINF:-1 tvg-logo="" group-title="NEWS LIVE", NBC NEWS LIVE 1
 https://nbcnews-lh.akamaihd.net/i/nbc_live11@183427/master.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="SATELITE", NBC NEWS LIVE 2
+#EXTINF:-1 tvg-logo="" group-title="NEWS LIVE", NBC NEWS LIVE 2
 https://nbcnews-lh.akamaihd.net/i/nbc_live12@187393/master.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="SATELITE", NBC NEWS LIVE 3
+#EXTINF:-1 tvg-logo="" group-title="NEWS LIVE", NBC NEWS LIVE 3
 https://nbcnews-lh.akamaihd.net/i/nbc_live13@187394/master.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="SATELITE", NBC NEWS LIVE 4
+#EXTINF:-1 tvg-logo="" group-title="NEWS LIVE", NBC NEWS LIVE 4
 https://nbcnews-lh.akamaihd.net/i/nbc_live14@187395/master.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="SATELITE", SKY NEWS EXTRA 1
+#EXTINF:-1 tvg-logo="" group-title="NEWS LIVE", SKY NEWS EXTRA 1
 https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="SATELITE", SKY NEWS EXTRA 2
+#EXTINF:-1 tvg-logo="" group-title="NEWS LIVE", SKY NEWS EXTRA 2
 https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="SATELITE", SKY NEWS EXTRA 3
+#EXTINF:-1 tvg-logo="" group-title="NEWS LIVE", SKY NEWS EXTRA 3
 https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="SATELITE", RTVE LIVE 1
+#EXTINF:-1 tvg-logo="" group-title="NEWS LIVE", RTVE LIVE 1
 https://rtvelivestreamv3.akamaized.net/ocasional01_main.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="SATELITE", RTVE LIVE 2
+#EXTINF:-1 tvg-logo="" group-title="NEWS LIVE", RTVE LIVE 2
 https://rtvelivestreamv3.akamaized.net/ocasional02_main.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="SATELITE", RTVE LIVE 3
+#EXTINF:-1 tvg-logo="" group-title="NEWS LIVE", RTVE LIVE 3
 https://rtvelivestreamv3.akamaized.net/ocasional03_main.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="SATELITE", RTVE LIVE 4
+#EXTINF:-1 tvg-logo="" group-title="NEWS LIVE", RTVE LIVE 4
 https://rtvelivestreamv3.akamaized.net/ocasional04_main.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="SATELITE", RTVE LIVE 5
+#EXTINF:-1 tvg-logo="" group-title="NEWS LIVE", RTVE LIVE 5
 https://rtvelivestreamv3.akamaized.net/ocasional05_main.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="SATELITE", RTVE LIVE 6
+#EXTINF:-1 tvg-logo="" group-title="NEWS LIVE", RTVE LIVE 6
 https://rtvelivestreamv3.akamaized.net/ocasional06_main.m3u8
 
-#EXTINF:-1 tvg-logo="https://fotos.subefotos.com/eb9ddb53d35283e2eb417c0f630014c6o.png" group-title="Radio Video", ADN RADIO
+#EXTINF:-1 tvg-logo="https://fotos.subefotos.com/eb9ddb53d35283e2eb417c0f630014c6o.png" group-title="RADIOS Y TV", ADN RADIO
 https://unlimited1-cl-isp.dps.live/adntv/adntv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://fotos.subefotos.com/2e9f8941464d152ccbcbfcd5e82a17eco.png" group-title="Radio Video", COOPERATIVA
+#EXTINF:-1 tvg-logo="https://fotos.subefotos.com/2e9f8941464d152ccbcbfcd5e82a17eco.png" group-title="RADIOS Y TV", COOPERATIVA
 http://unlimited1-cl.dps.live/coopetv/coopetv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.rln.cl/wp-content/uploads/2018/04/Logo_Radio_Las_Nieves-300x132.png" group-title="Radio Video", RADIO LAS NIEVES
+#EXTINF:-1 tvg-logo="https://www.rln.cl/wp-content/uploads/2018/04/Logo_Radio_Las_Nieves-300x132.png" group-title="RADIOS Y TV", RADIO LAS NIEVES
 https://v2.tustreaming.cl/rln/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.rln.cl/wp-content/uploads/2018/04/Logo_Radio_Las_Nieves-300x132.png" group-title="Radio Video", AYSEN TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Ays%C3%A9n_Televisi%C3%B3n_Canal_67.png/640px-Ays%C3%A9n_Televisi%C3%B3n_Canal_67.png" group-title="RADIOS Y TV", AYSEN TV
 https://v2.tustreaming.cl/aysentv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://fotos.subefotos.com/2161d073afc91ac52c7483e2945aa250o.png" group-title="Radio Video", +GENIAL
-https://v2.tustreaming.cl/genialtv/index.m3u8
+#EXTINF:-1 tvg-logo="https://fotos.subefotos.com/2161d073afc91ac52c7483e2945aa250o.png" group-title="RADIOS Y TV", +GENIAL
+https://v1.tustreaming.cl:19360/genialtv/genialtv.m3u8
 
-#EXTINF:-1 tvg-logo="https://fotos.subefotos.com/fafa1a51a52a8243e61f6eb26130d30ao.png" group-title="Radio Video", Radio Milenaria
+#EXTINF:-1 tvg-logo="https://fotos.subefotos.com/fafa1a51a52a8243e61f6eb26130d30ao.png" group-title="RADIOS Y TV", Radio Milenaria
 https://hd.chileservidores.cl:1936/chiloefive/chiloefive/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.rln.cl/wp-content/uploads/2018/04/Logo_Radio_Las_Nieves-300x132.png" group-title="Radio Video", CANAL SUR PATAGONIA
+#EXTINF:-1 tvg-logo="https://www.rln.cl/wp-content/uploads/2018/04/Logo_Radio_Las_Nieves-300x132.png" group-title="RADIOS Y TV", CANAL SUR PATAGONIA
 https://v1.tustreaming.cl:19360/canalsurpatagoniatv/canalsurpatagoniatv.m3u8
 
 #EXTINF:-1 tvg-logo="http://roccotv.cl/wp-content/uploads/2015/02/roccotv.png" group-title="Local Aysen", Santa Maria TV
